@@ -1,0 +1,18 @@
+{
+  "name": "lib_bower",
+  "version": "1.0.1",
+  "authors": [
+    "huyencao <caohuyeenf1997@gmail.com>"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/huyencao/bower-tourist.git",
+  "ignore": [
+    "README.md"
+  ]
+}
+
