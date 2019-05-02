@@ -1,0 +1,522 @@
+@media(min-width: 1920px) {
+    .why .sub_icon li {
+        padding: 10px 75px;
+    }
+    .payment .pay_sub ul>li {
+        padding-right: 134px;
+    }
+    .footer .box_support input {
+        width: 76%;
+    }
+    .navbar-header {
+        left: -35px;
+    }
+}
+
+@media(min-width: 1440px) {
+    .why .sub_icon li {
+        padding: 10px 45px;
+    }
+    .payment .pay_sub ul>li {
+        padding-right: 88px;
+    }
+}
+
+@media(max-width: 1366px) {
+    .float-md-right {
+        padding-left: 420px;
+    }
+    .payment .pay_sub ul>li {
+        padding-right: 50px;
+    }
+    .why .sub_icon li {
+        padding: 10px 22px;
+    }
+    .footer .box_support .btn-success {
+        top: 68px;
+        right: 100px;
+    }
+}
+
+@media (max-width: 1024px) {
+    header .head_top .left {
+        padding: 10px 0 0 40px;
+    }
+    header .head_top .rigth {
+        padding: 10px 40px 0 0;
+    }
+    .navbar-brand {
+        height: 80px;
+    }
+    .navbar-header {
+        background: url(../images/bg_1024.png);
+        width: 360px;
+        position: relative;
+        left: -35px;
+    }
+    .float-md-right {
+        margin-top: -60px;
+        padding-left: 315px;
+    }
+    .float-md-right li {
+        padding-left: 10px;
+    }
+    .float-md-right li a {
+        font-size: 14px;
+    }
+    header .logo img {
+        margin-left: 40px;
+        width: 65%;
+    }
+    .box_item .item_content {
+        height: 180px;
+    }
+    span.day {
+        margin-right: 35px;
+    }
+    span.date {
+        margin-right: 10px;
+    }
+    span.day,
+    span.date,
+    .price_old {
+        font-size: 13px
+    }
+    span.price_new {
+        font-size: 14px;
+    }
+    .why .sub_icon li {
+        width: 190px;
+        padding: 10px 10px;
+    }
+    .why .sub_icon li .icon {
+        margin-left: 30px;
+    }
+    .why .sub_icon li p {
+        text-align: center;
+    }
+    .payment {
+        padding-left: 40px;
+    }
+    .payment .pay_sub ul>li {
+        padding-right: 10px;
+    }
+    .tour_slider .slider_conte {
+        position: absolute;
+        top: 205px;
+        left: 50px;
+        right: 50px;
+    }
+    .list_tour .box_tour .box_price {
+        top: 5px;
+        right: 15px;
+        padding: 15px 10px;
+    }
+    .list_tour .box_tour .box_price .price {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    .detail_con span.date {
+        padding-right: 87px;
+    }
+    footer .footer {
+        padding: 0px 40px;
+    }
+    footer .footer .bct {
+        width: 80%;
+    }
+    .footer .box_support input {
+        width: 100%;
+    }
+    .footer .box_support .btn-success {
+        right: 25px;
+    }
+}
+
+@media(max-width: 768px) {
+    header .head_top .left {
+        padding: 10px 0 0 10px;
+    }
+    header .head_top .left .sp_hotline {
+        margin-left: 20px;
+    }
+    header .head_top .rigth {
+        padding: 12px 10px 0 0;
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 12px;
+    }
+    .navbar-brand {
+        height: 70px;
+    }
+    .navbar-header {
+        background: url(../images/bg_768.png);
+        width: 180px;
+        position: relative;
+        left: -35px;
+    }
+    header .logo img {
+        margin-left: 20px;
+        width: 80%;
+        margin-top: 5px;
+    }
+    .float-md-right {
+        margin-top: -60px;
+        padding-left: 165px;
+    }
+    .float-md-right li {
+        padding-left: 0px;
+    }
+    .float-md-right li a {
+        font-size: 13px;
+    }
+    .box_item .item_content {
+        padding: 10px 25px;
+    }
+    span.day,
+    span.date,
+    .price_old {
+        font-size: 14px;
+    }
+    span.day {
+        margin-right: 145px;
+    }
+    span.date {
+        margin-right: 100px;
+    }
+    span.price_new {
+        font-size: 15px;
+    }
+    .box_item .item_content {
+        height: 160px;
+    }
+    .why .sub_icon li {
+        width: 135px;
+        padding: 10px 0px;
+    }
+    .why .sub_icon li .icon {
+        margin-left: 15px;
+    }
+    .why .sub_icon li p {
+        padding-right: 5px;
+    }
+    .payment {
+        padding-left: 20px;
+    }
+    .payment .pay_sub ul>li img {
+        width: 88px;
+    }
+    .tour_slider .slider_conte {
+        position: absolute;
+        top: 115px;
+        left: 50px;
+        right: 50px;
+    }
+    .tour_slider .slider_tour img {
+        width: 100%;
+        height: 200px;
+    }
+    .tour_slider .slider_conte h3 {
+        font-size: 13px;
+        padding-bottom: 20px;
+    }
+    .tour_slider .slider_conte .description p {
+        font-size: 12px;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        max-height: 65px;
+    }
+    .list_tour .box_tour .box_main {
+        max-width: 100%
+    }
+    .list_tour .box_tour .box_price a {
+        padding: 5px;
+    }
+    .list_tour .box_tour .box_price {
+        top: 125px;
+        right: 325px;
+        padding: 10px 25px;
+    }
+    .list_tour .box_tour .box_price .price {
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+    .list_tour .box_book {
+        margin-top: 70px;
+    }
+    .hotline img {
+        width: 65px;
+    }
+    .support_tour .pho {
+        width: 150px;
+    }
+    .support_tour p.phone {
+        font-size: 11px;
+    }
+    .table-customize>tbody>tr>td {
+        padding: 15px 10px;
+    }
+    .detail_con span.date {
+        padding-right: 0px;
+    }
+    .detail_con span.end {
+        padding-right: 60px;
+    }
+    .tour_detail .title_detail h3 {
+        max-width: 65%;
+    }
+    footer .footer {
+        padding: 0px 10px;
+    }
+    .box_footer h3 {
+        padding-top: 0px;
+    }
+    footer .footer .bct {
+        width: 100%;
+    }
+    .box_footer {
+        color: #fff;
+        padding: 10px 0 0 0;
+    }
+    .footer .box_support {
+        margin-top: 30px;
+    }
+    .box_footer ul {
+        padding-top: 10px;
+    }
+    .box_footer ul li a {
+        font-size: 14px;
+    }
+    .footer .box_support .btn-success {
+        top: 95px;
+    }
+    .box_footer li {
+        padding-bottom: 10px;
+    }
+    .footer .bottom_lef h4,
+    .footer .bottom_righ h4 {
+        font-size: 16px
+    }
+    footer .bottom_lef p,
+    footer .bottom_righ p {
+        font-size: 13px;
+    }
+}
+
+@media(max-width: 425px) {
+    .navbar,
+    .head_top,
+    .hea_right {
+        display: none;
+    }
+    .m_xemthem {
+        display: block;
+    }
+    .head_title h2 {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    span.day {
+        margin-right: 200px;
+    }
+    span.date {
+        margin-right: 145px;
+    }
+    .why .sub_icon li {
+        width: 175px;
+    }
+    .why .sub_icon li .icon {
+        margin-left: 30px;
+    }
+    .why .sub_icon li:last-child {
+        position: relative;
+        left: -100px;
+        top: 20px;
+    }
+    .tour_slider .slider_conte {
+        top: 75px;
+        left: 20px;
+        right: 20px;
+    }
+    .support_tour,
+    .menu_right {
+        display: none
+    }
+    .list_tour .box_tour .box_price {
+        position: inherit;
+        top: 0px;
+        right: 0px;
+        width: 35%;
+        margin: 20px auto;
+    }
+    .list_tour .box_tour .box_main h3 {
+        margin-top: 15px;
+    }
+    .list_tour .box_book {
+        margin-top: 10px;
+    }
+    .box_1 {
+        float: none;
+        margin: 10px 0 0 60px;
+    }
+    .box_2 {
+        margin: 35px 90px 0 90px;
+    }
+    p.load_date {
+        text-align: center;
+    }
+    .box_detail h3 {
+        padding-top: 15px;
+        line-height: 1.5
+    }
+    .tour_detail .title_detail h3 {
+        max-width: 100%;
+        font-size: 14px;
+        line-height: 1.5
+    }
+    .detail_con span.car {
+        padding-right: 120px;
+    }
+    .detail_con span.start {
+        padding-right: 97px;
+    }
+    .detail_con span.end {
+        padding-right: 145px;
+    }
+    footer .footer .bct {
+        width: 50%;
+    }
+    .footer .box_support .btn-success {
+        top: 75px;
+    }
+    .footer .bottom_lef {
+        border-right: none;
+        padding-right: 0;
+    }
+    .footer .bottom_lef h4,
+    .footer .bottom_lef p {
+        text-align: left;
+    }
+    .payment .pay_sub ul>li img {
+        width: 100px;
+    }
+    .payment .pay_sub ul>li {
+        padding-right: 15px;
+        padding-bottom: 30px;
+    }
+    .payment .pay_sub ul li:last-child {
+        position: relative;
+        left: 120px;
+        top: 20px;
+    }
+    footer .bottom_lef p,
+    footer .bottom_righ p {
+        font-size: 14px;
+    }
+}
+
+@media(max-width: 375px) {
+    .head_title h2 {
+        font-size: 13px;
+    }
+    span.day {
+        margin-right: 140px;
+    }
+    span.date {
+        margin-right: 90px;
+    }
+    .why .sub_icon li {
+        width: 245px;
+        padding-left: 10px;
+    }
+    .why .sub_icon li .icon {
+        margin-left: 65px;
+    }
+    .why .sub_icon li:last-child {
+        position: relative;
+        left: 0px;
+        top: 20px;
+    }
+    .payment .pay_sub ul>li {
+        padding-right: 40px;
+        padding-left: 15px
+    }
+    .payment .pay_sub ul li:last-child {
+        left: 80px;
+        top: 5px;
+    }
+    .list_tour .box_tour .box_price {
+        padding: 10px 0px;
+    }
+    .box_2 {
+        margin: 35px 0px 0 71px;
+    }
+    .box_1 {
+        margin: 10px 0 0 35px;
+    }
+    .detail_con span.car {
+        padding-right: 66px;
+    }
+    .detail_con span.start {
+        padding-right: 44px;
+    }
+    .detail_con span.end {
+        padding-right: 95px;
+    }
+}
+
+@media(max-width: 320px) {
+    .head_title h2 {
+        font-size: 11px;
+    }
+    span.day {
+        margin-right: 90px;
+    }
+    span.date {
+        margin-right: 40px;
+    }
+    .why h2 {
+        font-size: 18px;
+    }
+    .why .sub_icon li {
+        width: 220px;
+        padding-left: 0px;
+    }
+    .why .sub_icon li .icon {
+        margin-left: 50px;
+    }
+    .payment .pay_sub ul>li {
+        padding-right: 15px;
+        padding-left: 5px;
+    }
+    .payment .pay_sub ul li:last-child {
+        left: 60px;
+    }
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:hover,
+    .nav-tabs>li.active>a:focus {
+        font-size: 12px;
+    }
+    .box_1 {
+        margin: 10px 0 0 15px;
+    }
+    .box_2 {
+        margin: 35px 0px 0 45px;
+    }
+    .detail_con span.date {
+        padding-right: 30px;
+    }
+    .detail_con span.car {
+        padding-right: 50px;
+    }
+    .detail_con span.start {
+        padding-right: 30px;
+    }
+    .detail_con span.end {
+        padding-right: 60px;
+    }
+}
